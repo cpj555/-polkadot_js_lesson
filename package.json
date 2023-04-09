@@ -1,0 +1,13 @@
+{
+  "name": "polkadot_js_lesson",
+  "version": "1.0.0",
+  "main": "main.ts",
+  "dependencies": {
+    "@polkadot/api": "^7.8.1",
+    "@polkadot/types": "^7.8.1",
+    "web3": "^1.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
